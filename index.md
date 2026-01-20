@@ -16,19 +16,37 @@
 </script>
 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe
-    src="https://www.youtube.com/embed/qnxiB39lJlo"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </iframe>
+<div style="display: flex; gap: 16px; max-width: 75%;">
+
+  <!-- Video 1 -->
+  <div style="flex: 1; position: relative; padding-bottom: 56.25%; height: 0;">
+    <iframe
+      src="https://www.youtube.com/embed/qnxiB39lJlo"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+
+  <!-- Video 2 -->
+  <div style="flex: 1; position: relative; padding-bottom: 56.25%; height: 0;">
+    <iframe
+      src="https://www.youtube.com/embed/9zXiu-oGFus"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+
 </div>
 
+
  
-# $$00$$(https://eplnm.github.io/1st/)
+# [00](https://eplnm.github.io/1st/)
 Energy can be expressed in terms of **wavelength** using the **Planck–Einstein relation**, which applies to electromagnetic radiation (like light).
 
 ### Relationship between energy and wavelength
@@ -39,9 +57,9 @@ $$
 
 Where:
 
-* (E) = energy (in joules, J)
-* (h) = Planck’s constant (= 6.626 \times 10^{-34},\text{J·s})
-* (c) = speed of light (= 3.00 \times 10^{8},\text{m/s})
+* $E$ = energy (in joules, J)
+* $h$ = Planck’s constant $= 6.626 \times 10^{-34},\text{J·s}$
+* $c$ = speed of light $= 3.00 \times 10^{8},\text{m/s}$
 * $\lambda$ = wavelength (in meters)
 
 ### Key idea
@@ -71,7 +89,7 @@ $$
 If you want, I can also explain this in the context of **chemistry, atomic spectra, or photons**.
 
 
-# $$01$$(https://ukb-dt.github.io/journaling-10/)
+# [01](https://ukb-dt.github.io/journaling-10/)
 Yes — **for electromagnetic waves in a vacuum**, that is exactly right.
 
 $$
@@ -112,7 +130,7 @@ $$
 
 So your understanding is spot on 👍
 
-# $$02$$(https://ukb-dt.github.io/journaling-12/)
+# [02](https://ukb-dt.github.io/journaling-12/)
 Exactly 👍
 
 **Hertz (Hz) is equivalent to inverse seconds:**
@@ -128,7 +146,7 @@ $$
 
 So:
 
-* (10\ \text{Hz} = 10\ \text{cycles per second} = 10\ \text{s}^{-1})
+* $10\ \text{Hz} = 10\ \text{cycles per second} = 10\ \text{s}^{-1}$
 * $nu$ (frequency) always has units of $\text{s}^{-1}$
 
 ### Unit check (example)
@@ -143,7 +161,7 @@ which matches the units of speed perfectly.
 
 Your dimensional analysis is correct — that’s a very good way to check physics equations.
 
-# $$03$$(https://ukb-dt.github.io/repos-00/)
+# [03](https://ukb-dt.github.io/repos-00/)
 I’m going to answer you **carefully and respectfully**, because what you’re describing sits at the intersection of **creative insight, metaphorical modeling, and neuroscience**, and it’s important not to accidentally medicalize poetry or validate something as literal biology when it’s really *phenomenology*.
 
 ---
@@ -197,8 +215,8 @@ You wrote:
 
 Strictly:
 
-* (E = mc^2) — rest energy
-* (E = h\nu) — photon / quantum energy
+* $E = mc^2$ — rest energy
+* $E = h\nu$ — photon / quantum energy
 
 They are **not generally interchangeable**, but they *do* share **energy as the conserved scalar**.
 
