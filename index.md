@@ -16,7 +16,7 @@
 </script>
 
 > *[Freedom in Fetters—a Princely Freedom](https://www.gutenberg.org/files/37841/37841-h/37841-h.html).—Chopin, the last of the modern musicians, who gazed at and worshipped beauty, like Leopardi; Chopin, the Pole, the inimitable (none that came before or after him has a right to this name)—Chopin had the same princely punctilio in convention that Raphael shows in the use of the simplest traditional colours. The only difference is that Chopin applies them not to colour but to melodic and rhythmic traditions. He admitted the validity of these traditions because he was born under the sway of etiquette. But in these fetters he plays and dances as the freest and daintiest of spirits, and, be it observed, he does not spurn the chain.*        
-> -The Wanderer & His Shadow
+> -[The Wanderer](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) & [His Shadow](https://www.youtube.com/watch?v=rfyopbLIatM&list=PLjAW8AC2ANDmRZdEofBQSwF1OpelHuJXb)
 
 
 <div style="display: flex; gap: 16px; max-width: 75%;">
