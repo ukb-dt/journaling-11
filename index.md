@@ -1,20 +1,20 @@
-
 <!-- Drop this anywhere in your README.md or page HTML -->
 <script>
   window.MathJax = {
     tex: {
-      inlineMath: $$$$'$', '$'$$, $$'\\(', '\\)'$$$$,
-      displayMath: $$$$'$$','$$'$$, $$'\\$$','\\$$'$$$$,
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
       processEscapes: true
     },
     options: {
-      skipHtmlTags: $$'script','noscript','style','textarea','pre','code'$$
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
     }
   };
 </script>
 <script id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
+
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
   <iframe
