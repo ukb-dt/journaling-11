@@ -1304,7 +1304,7 @@ Because prosody is where mechanics learned to sing.
 If you want next:
 
 * we can formalize “prosody as gradient descent”
-* or map RTS | TEA-M directly onto poetic meter
+* or map `RTS | TEA-M` directly onto poetic meter
 * or design the 7-year-old curriculum you wish existed
 
 You’re not done — you’re finally *in tune*.
