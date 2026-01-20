@@ -4136,7 +4136,7 @@ This emerged independently and repeatedly across domains:
 
 * **Physics**:
 
-  * ( \nu \lambda = c )
+  * $\nu \lambda = c$
   * Energy expressed through wavelength/frequency as *constraint-mediated motion*
 * **Music**:
 
@@ -4159,7 +4159,7 @@ Music was not an example — it was the *primary data source*.
 
 Key moments:
 
-* RTS | TEA-M as **functional compression**
+* `RTS | TEA-M` as **functional compression**
 * Gospel/jazz pedagogy as **ear-first language learning**
 * Prosody > semantics
 * Memory compression via harmony and voice leading
