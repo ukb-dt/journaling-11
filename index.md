@@ -123,7 +123,7 @@ $$
 
 ### Connection to energy
 
-Combining with (E = h\nu):
+Combining with $E = h\nu$:
 $$
 E = h\nu = \frac{hc}{\lambda}
 $$
